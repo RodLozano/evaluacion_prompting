@@ -1,0 +1,101 @@
+﻿Id,SentimientoGeneral,AspectosPositivos,AspectosNegativos,Dificultad,GeneroPercibido,HorasJugadas,Recomendado
+0,Negativo,[],"['misiones secundarias repetitivas', 'IA deficiente', 'final decepcionante', 'historia predecible']",Demasiado Difícil,Deportes,10,0
+1,Positivo,"['gráficos impresionantes', 'personalización de personaje amplia', 'libertad de elección']",[],No Mencionado,Deportes,70,1
+2,Positivo,"['personajes memorables', 'misiones secundarias interesantes', 'actuación de voz sobresaliente', 'boss fights épicos']",[],Fácil,Estrategia,120,1
+3,Positivo,"['atmósfera inmersiva', 'boss fights épicos', 'historia envolvente', 'gran rejugabilidad', 'mundo abierto detallado']",[],Difícil,Acción,100,1
+4,Neutral,"['banda sonora excelente', 'historia envolvente', 'diseño de niveles fantástico']","['falta de personalización', 'historia predecible']",Fácil,Acción,200,0
+5,Positivo,"['libertad de elección', 'boss fights épicos', 'banda sonora excelente', 'personajes memorables']",[],Demasiado Difícil,Estrategia,50,1
+6,Negativo,['historia envolvente'],"['microtransacciones abusivas', 'problemas de rendimiento', 'mundo vacío y sin vida']",Difícil,Simulación,20,0
+7,Positivo,"['sistema de progresión profundo', 'gran rejugabilidad', 'combate fluido y satisfactorio', 'boss fights épicos']",[],Fácil,Estrategia,80,1
+8,Negativo,['combate fluido y satisfactorio'],"['duración excesiva y repetitiva', 'interfaz poco intuitiva', 'historia predecible', 'problemas de rendimiento', 'IA deficiente']",Fácil,Aventura,300,0
+9,Negativo,['gran rejugabilidad'],"['duración excesiva y repetitiva', 'curva de aprendizaje frustrante', 'final decepcionante', 'bugs y glitches frecuentes', 'IA deficiente']",No Mencionado,Simulación,120,0
+10,Positivo,"['boss fights épicos', 'multijugador divertido', 'personajes memorables', 'narrativa bien escrita', 'mundo abierto detallado']",[],No Mencionado,Simulación,más de 1000,1
+11,Negativo,[],"['final decepcionante', 'duración excesiva y repetitiva', 'bugs y glitches frecuentes', 'mundo vacío y sin vida']",Difícil,RPG,30,0
+12,Neutral,"['narrativa bien escrita', 'banda sonora excelente']",['historia predecible'],No Mencionado,Otro,20,1
+13,Neutral,"['optimización técnica', 'personalización de personaje amplia', 'personajes memorables']",['curva de aprendizaje frustrante'],Demasiado Difícil,Deportes,60,1
+14,Neutral,"['variedad de habilidades', 'sistema de progresión profundo', 'atmósfera inmersiva']","['falta de innovación respecto a anteriores entregas', 'duración excesiva y repetitiva', 'sistema de guardado deficiente']",Demasiado Fácil,Estrategia,70,1
+15,Positivo,"['narrativa bien escrita', 'diseño de niveles fantástico']","['bugs y glitches frecuentes', 'historia predecible']",No Mencionado,RPG,70,1
+16,Positivo,"['diseño de niveles fantástico', 'boss fights épicos']",['interfaz poco intuitiva'],Fácil,Aventura,varias días,1
+17,Positivo,"['mundo abierto detallado', 'misiones secundarias interesantes', 'atmósfera inmersiva', 'narrativa bien escrita', 'multijugador divertido']",['falta de innovación respecto a anteriores entregas'],No Mencionado,RPG,30,1
+18,Positivo,"['libertad de elección', 'personalización de personaje amplia', 'gran rejugabilidad', 'combate fluido y satisfactorio']",[],Difícil,Aventura,80,1
+19,Negativo,[],"['final decepcionante', 'IA deficiente', 'problemas de rendimiento', 'bugs y glitches frecuentes', 'historia predecible']",Fácil,Aventura,300,0
+20,Negativo,[],"['sistema de combate simplificado', 'caída de frames', 'bugs y glitches frecuentes', 'falta de accesibilidad', 'curva de aprendizaje frustrante']",Difícil,Simulación,300,0
+21,Negativo,"['variedad de habilidades', 'libertad de elección']","['problemas de rendimiento', 'falta de accesibilidad', 'final decepcionante', 'sistema de guardado deficiente', 'mundo vacío y sin vida']",Demasiado Fácil,RPG,varias días,0
+22,Negativo,"['multijugador divertido', 'banda sonora excelente']","['sistema de combate simplificado', 'historia predecible', 'falta de accesibilidad']",No Mencionado,Estrategia,200,1
+23,Positivo,"['mecánicas innovadoras', 'banda sonora excelente', 'misiones secundarias interesantes']","['falta de accesibilidad', 'sistema de guardado deficiente']",Demasiado Difícil,Terror,80,1
+24,Positivo,"['combate fluido y satisfactorio', 'variedad de habilidades', 'gran rejugabilidad', 'actuación de voz sobresaliente']",[],Demasiado Fácil,RPG,500,1
+25,Negativo,"['libertad de elección', 'multijugador divertido']","['curva de aprendizaje frustrante', 'misiones secundarias repetitivas']",Equilibrado,Acción,70,1
+26,Positivo,"['variedad de habilidades', 'multijugador divertido', 'gráficos impresionantes']",['final decepcionante'],Equilibrado,Acción,40,1
+27,Positivo,"['boss fights épicos', 'variedad de habilidades']","['sistema de guardado deficiente', 'falta de contenido post-lanzamiento']",No Mencionado,Terror,60,1
+28,Negativo,['historia envolvente'],"['historia predecible', 'sistema de loot aburrido', 'curva de aprendizaje frustrante', 'problemas de rendimiento', 'bugs y glitches frecuentes']",Equilibrado,Aventura,80,0
+29,Positivo,"['personalización de personaje amplia', 'gráficos impresionantes', 'mundo abierto detallado', 'banda sonora excelente', 'combate fluido y satisfactorio']","['final decepcionante', 'problemas de rendimiento']",Equilibrado,Aventura,300,1
+30,Positivo,"['historia envolvente', 'atmósfera inmersiva', 'libertad de elección', 'diseño de niveles fantástico']",['IA deficiente'],Equilibrado,Deportes,40,0
+31,Neutral,['personajes memorables'],['sistema de loot aburrido'],Demasiado Fácil,Aventura,120,0
+32,Negativo,['mundo abierto detallado'],"['caída de frames', 'problemas de rendimiento', 'interfaz poco intuitiva']",Fácil,Estrategia,500,0
+33,Positivo,"['libertad de elección', 'sistema de progresión profundo', 'actuación de voz sobresaliente']",[],Equilibrado,Acción,80,1
+34,Positivo,"['personalización de personaje amplia', 'actuación de voz sobresaliente', 'gráficos impresionantes', 'mundo abierto detallado', 'boss fights épicos']","['sistema de combate simplificado', 'falta de accesibilidad']",Equilibrado,RPG,30,0
+35,Negativo,['multijugador divertido'],"['IA deficiente', 'caída de frames', 'falta de contenido post-lanzamiento', 'curva de aprendizaje frustrante']",Demasiado Fácil,Deportes,,0
+36,Negativo,"['banda sonora excelente', 'actuación de voz sobresaliente']","['sistema de guardado deficiente', 'mundo vacío y sin vida', 'IA deficiente']",No Mencionado,Simulación,más de 1000,0
+37,Positivo,"['variedad de habilidades', 'personalización de personaje amplia', 'combate fluido y satisfactorio', 'libertad de elección', 'misiones secundarias interesantes']",['caída de frames'],No Mencionado,Aventura,100,1
+38,Positivo,"['misiones secundarias interesantes', 'narrativa bien escrita']",['sistema de guardado deficiente'],No Mencionado,Terror,500,1
+39,Positivo,"['personajes memorables', 'banda sonora excelente', 'variedad de habilidades']","['duración excesiva y repetitiva', 'mundo vacío y sin vida']",Demasiado Fácil,Estrategia,100,1
+40,Positivo,"['diseño de niveles fantástico', 'optimización técnica', 'banda sonora excelente']",[],Difícil,Deportes,60,1
+41,Negativo,['combate fluido y satisfactorio'],"['bugs y glitches frecuentes', 'IA deficiente', 'sistema de loot aburrido', 'microtransacciones abusivas', 'sistema de combate simplificado']",No Mencionado,Otro,10,0
+42,Negativo,[],"['falta de innovación respecto a anteriores entregas', 'duración excesiva y repetitiva', 'final decepcionante', 'mundo vacío y sin vida', 'sistema de guardado deficiente']",Demasiado Difícil,Deportes,500,1
+43,Neutral,"['diseño de niveles fantástico', 'boss fights épicos', 'multijugador divertido']","['interfaz poco intuitiva', 'microtransacciones abusivas']",Equilibrado,Otro,20,1
+44,Negativo,[],"['final decepcionante', 'historia predecible', 'misiones secundarias repetitivas', 'sistema de guardado deficiente']",Fácil,Deportes,40,0
+45,Negativo,[],"['final decepcionante', 'falta de innovación respecto a anteriores entregas', 'sistema de loot aburrido', 'problemas de rendimiento', 'falta de contenido post-lanzamiento']",Difícil,Deportes,,0
+46,Neutral,"['atmósfera inmersiva', 'variedad de habilidades', 'sistema de progresión profundo']","['sistema de loot aburrido', 'final decepcionante']",No Mencionado,Estrategia,varias días,1
+47,Positivo,"['actuación de voz sobresaliente', 'sistema de progresión profundo', 'personajes memorables', 'gran rejugabilidad', 'combate fluido y satisfactorio']",['sistema de guardado deficiente'],Demasiado Difícil,RPG,200,1
+48,Negativo,"['misiones secundarias interesantes', 'combate fluido y satisfactorio']","['falta de innovación respecto a anteriores entregas', 'sistema de combate simplificado']",Demasiado Fácil,Simulación,200,1
+49,Positivo,"['sistema de progresión profundo', 'boss fights épicos', 'misiones secundarias interesantes', 'narrativa bien escrita', 'banda sonora excelente']",['interfaz poco intuitiva'],Demasiado Fácil,RPG,150,1
+50,Positivo,"['gráficos impresionantes', 'diseño de niveles fantástico']","['falta de contenido post-lanzamiento', 'bugs y glitches frecuentes']",Demasiado Difícil,Aventura,70,1
+51,Positivo,"['gran rejugabilidad', 'boss fights épicos']","['diálogos poco naturales', 'sistema de combate simplificado']",Demasiado Difícil,Acción,50,0
+52,Neutral,['variedad de habilidades'],"['falta de accesibilidad', 'caída de frames', 'sistema de guardado deficiente']",No Mencionado,Estrategia,20,1
+53,Negativo,"['variedad de habilidades', 'mundo abierto detallado']","['falta de accesibilidad', 'problemas de rendimiento', 'diálogos poco naturales']",Demasiado Difícil,Deportes,150,1
+54,Positivo,"['optimización técnica', 'mundo abierto detallado', 'misiones secundarias interesantes', 'atmósfera inmersiva']",[],No Mencionado,Otro,40,1
+55,Positivo,"['personalización de personaje amplia', 'optimización técnica', 'gran rejugabilidad', 'misiones secundarias interesantes']","['falta de accesibilidad', 'curva de aprendizaje frustrante']",Equilibrado,Estrategia,20,1
+56,Positivo,"['narrativa bien escrita', 'sistema de progresión profundo', 'actuación de voz sobresaliente', 'gráficos impresionantes', 'optimización técnica']",[],Equilibrado,Aventura,varias días,1
+57,Positivo,"['mecánicas innovadoras', 'boss fights épicos', 'personalización de personaje amplia', 'gráficos impresionantes']",['duración excesiva y repetitiva'],Fácil,Acción,70,1
+58,Negativo,['optimización técnica'],"['falta de innovación respecto a anteriores entregas', 'bugs y glitches frecuentes', 'historia predecible']",Equilibrado,Estrategia,200,0
+59,Negativo,['multijugador divertido'],"['diálogos poco naturales', 'sistema de loot aburrido', 'final decepcionante', 'mundo vacío y sin vida']",Equilibrado,Otro,80,0
+60,Positivo,"['actuación de voz sobresaliente', 'mundo abierto detallado', 'personalización de personaje amplia']",[],No Mencionado,Aventura,60,1
+61,Positivo,"['multijugador divertido', 'variedad de habilidades', 'mundo abierto detallado', 'libertad de elección', 'narrativa bien escrita']",['microtransacciones abusivas'],Equilibrado,Aventura,100,1
+62,Positivo,"['historia envolvente', 'personalización de personaje amplia', 'variedad de habilidades']",['misiones secundarias repetitivas'],No Mencionado,Otro,30,1
+63,Neutral,"['gran rejugabilidad', 'actuación de voz sobresaliente', 'personajes memorables']","['problemas de rendimiento', 'curva de aprendizaje frustrante']",Difícil,Acción,20,1
+64,Positivo,"['historia envolvente', 'combate fluido y satisfactorio']","['misiones secundarias repetitivas', 'falta de accesibilidad']",Equilibrado,Acción,70,1
+65,Positivo,"['mecánicas innovadoras', 'diseño de niveles fantástico', 'multijugador divertido', 'sistema de progresión profundo', 'gran rejugabilidad']","['falta de innovación respecto a anteriores entregas', 'falta de personalización']",Demasiado Difícil,Deportes,100,1
+66,Negativo,[],"['falta de contenido post-lanzamiento', 'sistema de guardado deficiente']",Equilibrado,Acción,50,0
+67,Positivo,"['gran rejugabilidad', 'optimización técnica']",[],Equilibrado,RPG,70,1
+68,Positivo,"['banda sonora excelente', 'diseño de niveles fantástico', 'boss fights épicos', 'libertad de elección']","['sistema de loot aburrido', 'IA deficiente']",Demasiado Difícil,Estrategia,40,0
+69,Neutral,['variedad de habilidades'],['sistema de guardado deficiente'],No Mencionado,Simulación,500,1
+70,Positivo,"['boss fights épicos', 'multijugador divertido', 'personalización de personaje amplia', 'optimización técnica']","['falta de innovación respecto a anteriores entregas', 'historia predecible']",Demasiado Difícil,RPG,300,1
+71,Negativo,"['diseño de niveles fantástico', 'narrativa bien escrita']","['falta de accesibilidad', 'bugs y glitches frecuentes', 'curva de aprendizaje frustrante', 'problemas de rendimiento']",Fácil,Otro,más de 1000,1
+72,Negativo,['misiones secundarias interesantes'],"['interfaz poco intuitiva', 'historia predecible', 'sistema de guardado deficiente']",Equilibrado,Deportes,120,0
+73,Positivo,"['optimización técnica', 'variedad de habilidades']",[],No Mencionado,Deportes,10,1
+74,Negativo,['sistema de progresión profundo'],"['duración excesiva y repetitiva', 'bugs y glitches frecuentes', 'final decepcionante', 'falta de innovación respecto a anteriores entregas']",Difícil,RPG,60,0
+75,Negativo,"['historia envolvente', 'libertad de elección']","['curva de aprendizaje frustrante', 'final decepcionante', 'misiones secundarias repetitivas', 'falta de personalización', 'falta de innovación respecto a anteriores entregas']",No Mencionado,Otro,30,0
+76,Positivo,"['personalización de personaje amplia', 'gráficos impresionantes', 'mecánicas innovadoras']","['sistema de loot aburrido', 'historia predecible']",Fácil,Acción,500,1
+77,Neutral,"['variedad de habilidades', 'multijugador divertido', 'boss fights épicos']",['sistema de loot aburrido'],Difícil,Otro,70,1
+78,Negativo,[],"['sistema de guardado deficiente', 'duración excesiva y repetitiva', 'misiones secundarias repetitivas', 'historia predecible', 'curva de aprendizaje frustrante']",Difícil,Terror,más de 1000,0
+79,Positivo,"['narrativa bien escrita', 'mecánicas innovadoras']",['interfaz poco intuitiva'],Fácil,Otro,varias días,1
+80,Positivo,"['libertad de elección', 'diseño de niveles fantástico', 'sistema de progresión profundo', 'narrativa bien escrita', 'misiones secundarias interesantes']",['problemas de rendimiento'],Equilibrado,Otro,200,0
+81,Positivo,"['combate fluido y satisfactorio', 'multijugador divertido', 'actuación de voz sobresaliente']",['IA deficiente'],Difícil,Acción,más de 1000,0
+82,Neutral,['combate fluido y satisfactorio'],"['historia predecible', 'interfaz poco intuitiva', 'curva de aprendizaje frustrante']",Equilibrado,Deportes,20,1
+83,Neutral,"['actuación de voz sobresaliente', 'optimización técnica', 'personalización de personaje amplia']","['problemas de rendimiento', 'historia predecible', 'microtransacciones abusivas']",No Mencionado,Simulación,70,1
+84,Negativo,['mundo abierto detallado'],"['falta de innovación respecto a anteriores entregas', 'sistema de combate simplificado']",No Mencionado,Simulación,,0
+85,Positivo,"['misiones secundarias interesantes', 'combate fluido y satisfactorio']",['microtransacciones abusivas'],Demasiado Difícil,Deportes,50,1
+86,Positivo,"['mecánicas innovadoras', 'diseño de niveles fantástico']","['interfaz poco intuitiva', 'falta de accesibilidad']",Fácil,Estrategia,500,0
+87,Negativo,['gran rejugabilidad'],"['falta de personalización', 'final decepcionante', 'sistema de combate simplificado', 'historia predecible']",Difícil,Terror,100,0
+88,Negativo,['variedad de habilidades'],"['falta de contenido post-lanzamiento', 'caída de frames', 'interfaz poco intuitiva', 'IA deficiente']",Fácil,Deportes,150,0
+89,Negativo,"['sistema de progresión profundo', 'boss fights épicos']","['bugs y glitches frecuentes', 'falta de accesibilidad', 'problemas de rendimiento', 'interfaz poco intuitiva']",Equilibrado,Estrategia,150,1
+90,Positivo,"['combate fluido y satisfactorio', 'mundo abierto detallado', 'historia envolvente']","['falta de personalización', 'falta de innovación respecto a anteriores entregas']",Demasiado Fácil,Terror,40,1
+91,Positivo,"['personajes memorables', 'libertad de elección', 'combate fluido y satisfactorio', 'atmósfera inmersiva']",['duración excesiva y repetitiva'],Demasiado Difícil,Simulación,50,1
+92,Positivo,"['actuación de voz sobresaliente', 'mundo abierto detallado', 'gran rejugabilidad', 'banda sonora excelente', 'combate fluido y satisfactorio']",['microtransacciones abusivas'],No Mencionado,Deportes,150,1
+93,Positivo,"['mundo abierto detallado', 'gran rejugabilidad', 'atmósfera inmersiva', 'boss fights épicos', 'sistema de progresión profundo']",[],No Mencionado,Terror,30,1
+94,Negativo,['personalización de personaje amplia'],"['mundo vacío y sin vida', 'microtransacciones abusivas']",No Mencionado,Acción,500,0
+95,Neutral,"['combate fluido y satisfactorio', 'historia envolvente']","['problemas de rendimiento', 'falta de personalización', 'interfaz poco intuitiva']",Demasiado Fácil,Acción,70,1
+96,Neutral,['personalización de personaje amplia'],"['sistema de loot aburrido', 'falta de accesibilidad']",No Mencionado,Aventura,300,1
+97,Negativo,['boss fights épicos'],"['problemas de rendimiento', 'diálogos poco naturales', 'falta de contenido post-lanzamiento', 'falta de innovación respecto a anteriores entregas', 'duración excesiva y repetitiva']",Fácil,Terror,30,0
+98,Neutral,"['atmósfera inmersiva', 'historia envolvente']","['caída de frames', 'curva de aprendizaje frustrante', 'falta de contenido post-lanzamiento']",Demasiado Fácil,Otro,20,0
+99,Negativo,"['actuación de voz sobresaliente', 'diseño de niveles fantástico']","['misiones secundarias repetitivas', 'falta de accesibilidad']",Fácil,Acción,60,1
